@@ -4,9 +4,9 @@ This interactive Power BI dashboard provides a comprehensive analysis of a compa
 
 # Keys Insights & Features - 
 
-<h3 Total Sales & Key Metrics </h3> : An overview of core KPIs including total sales, total profit, total manufacturing cost, and units sold. 
+    Total Sales & Key Metrics : An overview of core KPIs including total sales, total profit, total manufacturing cost, and units sold. 
 
-<h3 Profit by Product</h3> : A bar chart showing the most profitable products, with Paseo leading as the top performer. 
+    Profit by Product: A bar chart showing the most profitable products, with Paseo leading as the top performer. 
 
 Segment-wise Sales: A tree map visual comparing sales performance across customer segments like Government, Enterprise, and Small Business. 
 
