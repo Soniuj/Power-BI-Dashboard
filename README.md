@@ -4,19 +4,19 @@ This interactive Power BI dashboard provides a comprehensive analysis of a compa
 
 # Keys Insights & Features - 
 
-    Total Sales & Key Metrics : An overview of core KPIs including total sales, total profit, total manufacturing cost, and units sold. 
+Total Sales & Key Metrics :  An overview of core KPIs including total sales, total profit, total manufacturing cost, and units sold. 
 
-    Profit by Product: A bar chart showing the most profitable products, with Paseo leading as the top performer. 
+Profit by Product:  A bar chart showing the most profitable products, with Paseo leading as the top performer. 
 
-Segment-wise Sales: A tree map visual comparing sales performance across customer segments like Government, Enterprise, and Small Business. 
+Segment-wise Sales:  A tree map visual comparing sales performance across customer segments like Government, Enterprise, and Small Business. 
 
-Discount-wise Sales Analysis: A pie chart showing how various discount bands impact overall sales contribution. 
+Discount-wise Sales Analysis:  A pie chart showing how various discount bands impact overall sales contribution. 
 
-Sales vs Profit Correlation: A scatter plot visualizing the relationship between sales and profit by individual products, helping spot outliers and high performers. 
+Sales vs Profit Correlation:  A scatter plot visualizing the relationship between sales and profit by individual products, helping spot outliers and high performers. 
 
-Geographic Analysis: A map showing average units sold by country, highlighting regional performance trends. 
+Geographic Analysis:  A map showing average units sold by country, highlighting regional performance trends. 
 
-Monthly Sales Trend: A line chart displaying monthly sales patterns to track seasonal performance and business cycles. 
+Monthly Sales Trend:  A line chart displaying monthly sales patterns to track seasonal performance and business cycles. 
 
 Data Modeling & Measures: Built using clean data model with DAX measures like Total Profit, Total Sales, and Total Manufacturing Cost for dynamic analysis. 
 
@@ -43,6 +43,6 @@ Top Segment**Government** <br></p>
 
 # 📁 Repository Structure :
 
- Dashboard: Contains the Power BI report file (.pbix) showcasing the complete sales and financial performance dashboard. <a https://github.com/Soniuj/Power-BI-Dashboard/blob/main/Sales%20dashboard%20.pbix </a>
+ Dashboard: Contains the Power BI report file (.pbix) showcasing the complete sales and financial performance dashboard.  https://github.com/Soniuj/Power-BI-Dashboard/blob/main/Sales%20dashboard%20.pbix
 
- Images: Contains screenshots of the dashboard for quick preview and visual reference (ideal for README and portfolio highlights). <a https://github.com/Soniuj/Power-BI-Dashboard/blob/main/Dashboard.png </a>
+ Images: Contains screenshots of the dashboard for quick preview and visual reference (ideal for README and portfolio highlights).  https://github.com/Soniuj/Power-BI-Dashboard/blob/main/Dashboard.png
