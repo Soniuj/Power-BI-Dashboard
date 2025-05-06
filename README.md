@@ -21,7 +21,7 @@ Monthly Sales Trend: A line chart displaying monthly sales patterns to track sea
 Data Modeling & Measures: Built using clean data model with DAX measures like Total Profit, Total Sales, and Total Manufacturing Cost for dynamic analysis. 
 
 
-🌟 Why This Project Stands Out-
+🌟  Why This Project Stands Out-
 Visually Impactful: The dashboard integrates a rich variety of visualizations including treemaps, bar charts, line graphs, scatter plots, pie charts, and map visuals to create a compelling and interactive analytical experience.
 
 Insight-Focused Design: Each visual serves a clear purpose—whether it’s revealing profit drivers, discount effectiveness, sales segmentation, or regional trends—ensuring business users can make fast, informed decisions.
@@ -29,11 +29,12 @@ Insight-Focused Design: Each visual serves a clear purpose—whether it’s reve
 Strategic Relevance: The insights from this project support critical business functions like performance tracking, segment targeting, profit optimization, and long-term planning for sales and operations.
 
 
- 📊 Project Highlights
-Metric	Value -- 
-Total Sales	₹118.7M
-Total Profit	₹16.89M
-Total Manufacturing Cost	₹68K
-Goal Achievement (Profit)	+1336.92%
+ 📊  Project Highlights
+     Metric	Value --   
+
+Total Sales	**₹118.7M**
+Total Profit **	₹16.89M**
+Total Manufacturing Cost	**₹68K**
+Goal Achievement (Profit)	**+1336.92%**
 Top Performing Product	**Paseo**
 Top Segment	**Government**
