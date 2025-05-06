@@ -45,4 +45,5 @@ Top Segment**Government** <br></p>
 
  Dashboard: Contains the Power BI report file (.pbix) showcasing the complete sales and financial performance dashboard.  https://github.com/Soniuj/Power-BI-Dashboard/blob/main/Sales%20dashboard%20.pbix
 
- Images: Contains screenshots of the dashboard for quick preview and visual reference (ideal for README and portfolio highlights).  https://github.com/Soniuj/Power-BI-Dashboard/blob/main/Dashboard.png
+ Images: Contains screenshots of the dashboard for quick preview and visual reference (ideal for README and portfolio highlights). ![image](https://github.com/user-attachments/assets/5b853111-0f79-48c1-80cd-3ff98e3e86bf)
+
