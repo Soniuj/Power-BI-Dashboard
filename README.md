@@ -39,3 +39,10 @@ Total Manufacturing Cost	**₹68K**
 Goal Achievement (Profit)	**+1336.92%**
 Top Performing Product	**Paseo**
 Top Segment	**Government**
+
+
+# 📁 Repository Structure :
+
+ Dashboard: Contains the Power BI report file (.pbix) showcasing the complete sales and financial performance dashboard.
+
+ Images: Contains screenshots of the dashboard for quick preview and visual reference (ideal for README and portfolio highlights).
