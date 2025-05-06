@@ -32,16 +32,13 @@ Strategic Relevance: The insights from this project support critical business fu
 
 #  📊  Project Highlights
      Metric	Value --   
-     <p>To force<br> line breaks<br> in a text,<br> use the br<br> element.</p>
-
-
+   
 <p> Total Sales**₹118.7M** <br> 
 Total Profit **₹16.89M** <br>
 Total Manufacturing Cost	**₹68K** <br>
 Goal Achievement (Profit)**+1336.92%** <br>
 Top Performing Product**Paseo** <br>
 Top Segment**Government** <br></p>
-
 
 
 # 📁 Repository Structure :
